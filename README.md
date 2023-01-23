@@ -20,3 +20,29 @@ In addition to its convenience and efficiency, the Booking System also offers a 
 
 Overall, the web application of Booking System in FlashPoint Studio  is a valuable tool that helps the company to improve its customer experience and streamline its operations. By offering a convenient and user-friendly way to book games and activities, the system helps to attract and retain customers, while also enabling the company to better manage its resources and optimize its revenue. We are confident that this new web application will greatly enhance the gaming experience for our players and help to make their visits to FlashPoint even more enjoyable. 
 
+## Objective
+At FlashPoint Studio, we are always looking for ways to improve the gaming experience for our players. That's why we have recently developed a new web application for booking systems.
+
+Our main objective in creating this web application was to streamline the booking process for our players and make it more convenient for them to reserve time slots for their favorite games at any of our locations. We wanted to create a system that was easy to use and intuitive, so that players could find and reserve time slots with minimal effort.
+
+Another key objective of our booking system is to help us better manage and utilize our resources. By allowing players to reserve time slots in advance, we can ensure that all of our gaming stations are being used to their full potential and minimize the risk of overcrowding. This will help us to provide a better gaming experience for all of our players, as well as maximize the efficiency of our operations.
+
+In addition to these core objectives, we also wanted our web application to be visually appealing and user-friendly. We wanted to create an interface that was easy to navigate and provided all of the necessary information in a clear and concise manner.
+
+## Features and Functionalities
+- Home Page: Browse easily the details of the company, the features available such as the media, products and the accesibility to login and make a booking.  
+
+- Register & Login: Provide your personal details and create a unique username and password to be able to book a station.
+
+- Booking Page: Navigate to the booking page and select date, time, and the station you wish to book.
+
+- Payment Page: Making a payment according to the price and through QR code provided.
+
+## Sequence Diagram
+![unnamed (1)](https://user-images.githubusercontent.com/120077901/214079866-aaf6a43f-4a85-4152-8efb-151ff1d53702.png)
+
+## Project System Captured Screen
+
+## Challenges/Difficulties in Develop the Application
+- Unable to create a log out feature outside of Jetstream because there are unidentified codes which we unfamiliared to modify the Jetstream. Instead, We included the Jetstream DashBoard which has logout feature in our system.
+- The difficulties to record a data in Booking Page due to complications in Routing and Controller. 
