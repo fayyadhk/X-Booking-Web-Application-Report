@@ -42,6 +42,9 @@ In addition to these core objectives, we also wanted our web application to be v
 ![unnamed (1)](https://user-images.githubusercontent.com/120077901/214079866-aaf6a43f-4a85-4152-8efb-151ff1d53702.png)
 
 ## Project System Captured Screen
+### Main Page
+
+This picture shows an interfaace and design to introduce to the company and its services and products. Besides that, It has a navigation button to bring the user to register, login and Booking (for the registered user).
 
 ## Challenges/Difficulties in Develop the Application
 - Unable to create a log out feature outside of Jetstream because there are unidentified codes which we unfamiliared to modify the Jetstream. Instead, We included the Jetstream DashBoard which has logout feature in our system.
