@@ -46,6 +46,19 @@ In addition to these core objectives, we also wanted our web application to be v
 
 This picture shows an interfaace and design to introduce to the company and its services and products. Besides that, It has a navigation button to bring the user to register, login and Booking (for the registered user).
 
+### Register & Login Page
+
+This picture shows an accesibility to login and register. We used Jetstream for this feature because it s reliable for authentication.
+
+### Booking Page
+
+These pictures show that the page is divided into two where we attempted to record data from one page to another and able to make the button disabled on the second page in rder to avoid overwriting data (same data).
+
+### Payment Page
+
+This picture shows a payment page where user can proceed with payment by scanning the QR code.
+
+
 ## Challenges/Difficulties in Develop the Application
 - Unable to create a log out feature outside of Jetstream because there are unidentified codes which we unfamiliared to modify the Jetstream. Instead, We included the Jetstream DashBoard which has logout feature in our system.
 - The difficulties to record a data in Booking Page due to complications in Routing and Controller. 
