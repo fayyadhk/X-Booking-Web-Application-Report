@@ -34,7 +34,7 @@ In addition to these core objectives, we also wanted our web application to be v
 
 - Register & Login: Provide your personal details and create a unique username and password to be able to book a station.
 
-- B![register page](https://user-images.githubusercontent.com/120077901/214209762-54fd1256-d640-4163-915a-c35a45c2e3d8.jpg)ooking Page: Navigate to the booking page and select date, time, and the station you wish to book.
+- Booking Page: Navigate to the booking page and select date, time, and the station you wish to book.
 
 - Payment Page: Making a payment according to the price and through QR code provided.
 
