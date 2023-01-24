@@ -48,7 +48,7 @@ In addition to these core objectives, we also wanted our web application to be v
 This picture shows an interfaace and design to introduce to the company and its services and products. Besides that, It has a navigation button to bring the user to register, login and Booking (for the registered user).
 
 ### Register & Login Page
-![Uploading register page.jpg…]()
+![register page](https://user-images.githubusercontent.com/120077901/214210055-af6a8749-cced-424d-977a-f4145197e05f.jpg)
 
 This picture shows an accesibility to login and register. We used Jetstream for this feature because it s reliable for authentication.
 
