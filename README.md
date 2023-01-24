@@ -34,7 +34,7 @@ In addition to these core objectives, we also wanted our web application to be v
 
 - Register & Login: Provide your personal details and create a unique username and password to be able to book a station.
 
-- Booking Page: Navigate to the booking page and select date, time, and the station you wish to book.
+- B![Uploading register page.jpg…]()ooking Page: Navigate to the booking page and select date, time, and the station you wish to book.
 
 - Payment Page: Making a payment according to the price and through QR code provided.
 
@@ -43,7 +43,6 @@ In addition to these core objectives, we also wanted our web application to be v
 
 ## Project System Captured Screen
 ### Main Page
-
 This picture shows an interfaace and design to introduce to the company and its services and products. Besides that, It has a navigation button to bring the user to register, login and Booking (for the registered user).
 
 ### Register & Login Page
@@ -52,7 +51,7 @@ This picture shows an accesibility to login and register. We used Jetstream for 
 
 ### Booking Page
 
-These pictures show that the page is divided into two where we attempted to record data from one page to another and able to make the button disabled on the second page in rder to avoid overwriting data (same data).
+This picture show sections of input where user kan enter Date, Time, Duration and Number of controllers according to the price list that is provided.
 
 ### Payment Page
 
@@ -61,4 +60,4 @@ This picture shows a payment page where user can proceed with payment by scannin
 
 ## Challenges/Difficulties in Develop the Application
 - Unable to create a log out feature outside of Jetstream because there are unidentified codes which we unfamiliared to modify the Jetstream. Instead, We included the Jetstream DashBoard which has logout feature in our system.
-- The difficulties to record a data in Booking Page due to complications in Routing and Controller. 
+- The difficulties to record a data in Booking Page to generate the calculation of price and record data due to complications in Routing and Controller. 
