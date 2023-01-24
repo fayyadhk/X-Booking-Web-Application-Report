@@ -34,7 +34,7 @@ In addition to these core objectives, we also wanted our web application to be v
 
 - Register & Login: Provide your personal details and create a unique username and password to be able to book a station.
 
-- B![Uploading register page.jpg…]()ooking Page: Navigate to the booking page and select date, time, and the station you wish to book.
+- B![register page](https://user-images.githubusercontent.com/120077901/214209762-54fd1256-d640-4163-915a-c35a45c2e3d8.jpg)ooking Page: Navigate to the booking page and select date, time, and the station you wish to book.
 
 - Payment Page: Making a payment according to the price and through QR code provided.
 
@@ -43,19 +43,25 @@ In addition to these core objectives, we also wanted our web application to be v
 
 ## Project System Captured Screen
 ### Main Page
+![main page](https://user-images.githubusercontent.com/120077901/214209748-ed49f670-b0d0-4db9-9d37-2dd9fd51ff6c.jpg)
+
 This picture shows an interfaace and design to introduce to the company and its services and products. Besides that, It has a navigation button to bring the user to register, login and Booking (for the registered user).
 
 ### Register & Login Page
+![Uploading register page.jpg…]()
 
 This picture shows an accesibility to login and register. We used Jetstream for this feature because it s reliable for authentication.
 
 ### Booking Page
+![booking page](https://user-images.githubusercontent.com/120077901/214209789-696257fb-1458-4938-af72-8eccf5d8cb7d.jpg)
 
 This picture show sections of input where user kan enter Date, Time, Duration and Number of controllers according to the price list that is provided.
 
 ### Payment Page
+![payment page1](https://user-images.githubusercontent.com/120077901/214209799-e50b917d-a47f-4aad-86f6-4771b621e2ab.jpg)
+![WhatsApp Image 2023-01-24 at 03 32 26](https://user-images.githubusercontent.com/120077901/214209815-d8b3bfd9-1a32-406c-b370-b34b22086fd6.jpg)
 
-This picture shows a payment page where user can proceed with payment by scanning the QR code.
+This picture shows a payment page where user can proceed with payment by scanning the QR code and it will promted to next page for the user to share receipt in the WhatsApp
 
 
 ## Challenges/Difficulties in Develop the Application
